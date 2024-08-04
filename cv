@@ -1,2 +1,5 @@
 git clone https://github.com/ozdogancan/canozdogan.github.io.git
 
+cd canozdogan.github.io
+
+echo "Hello World" > index.html
